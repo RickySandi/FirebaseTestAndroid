@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196797707166",
+    "project_id": "android-test-mobile",
+    "storage_bucket": "android-test-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196797707166:android:0e876659da78ecb3245c8f",
+        "android_client_info": {
+          "package_name": "edu.bo.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196797707166-k2fv6gfegq2om0h5opgbp0vjch6qne6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7KQB9QbSxgG83eFya1zWBj9CqHGDPqM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196797707166-k2fv6gfegq2om0h5opgbp0vjch6qne6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
